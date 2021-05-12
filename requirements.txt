@@ -1,1 +1,1 @@
-MarkupSafe==1.1.1
+MarkupSafe==2.0.0
